@@ -1,5 +1,4 @@
-// import { apiKey } from './apiKey.js';
-const apiKey = 'cbFYZzOdPVtqY_R-1Gim02FCf3wDfSc5ICYDQocWaafBXP7vBwo16xi8RLe1qJqsR5gqL71sVooNI201url_CyXioCk1KZVk6RECh2Kh8wb_PI1uAU4xj2QgbkaGWnYx';
+import { apiKey } from './apiKey.js';
 
 const Yelp = {
     search(term,location,sortBy) {
